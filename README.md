@@ -3,7 +3,7 @@
 This repo contains executable course notes and slides for the Applied ML course at Cornell and Cornell Tech.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vcE9WGbi4QY
-" target="_blank"><img src="http://img.youtube.com/vi/vcE9WGbi4QY/0.jpg"
+" target="_blank"><img src="http://img.youtube.com/vi/vcE9WGbi4QY/1.jpg"
 width="240" height="180" border="10" /></a>
 
 The videos that come with this lecture are found on [Youtube](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
