@@ -61,7 +61,7 @@ toml==0.10.1
 torch==1.4.0
 torchdiffeq==0.0.1
 torchvision==0.5.0
-tornado==6.0.4
+tornado==6.1.0
 tqdm==4.42.1
 traitlets==4.3.3
 typed-ast==1.4.1
